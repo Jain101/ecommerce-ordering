@@ -1,0 +1,3 @@
+# ignore node modules and envs of backend and frontend folders
+node_modules
+.env
